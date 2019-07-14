@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\bin\Debug\WestwoodBillingSystem.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\bin\Debug\WestwoodBillingSystem.exe
+c:\users\user\documents\visual studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\bin\Debug\WestwoodBillingSystem.pdb
+c:\users\user\documents\visual studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\bin\Debug\WestwoodBillingSystem.xml
+c:\users\user\documents\visual studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\obj\Debug\WestwoodBillingSystem.Dashboard.resources
+c:\users\user\documents\visual studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\obj\Debug\WestwoodBillingSystem.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\obj\Debug\WestwoodBillingSystem.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\obj\Debug\WestwoodBillingSystem.exe
+c:\users\user\documents\visual studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\obj\Debug\WestwoodBillingSystem.xml
+c:\users\user\documents\visual studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\obj\Debug\WestwoodBillingSystem.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\obj\Debug\WestwoodBillingSystem.Billing.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\WestwoodBillingSystem\WestwoodBillingSystem\obj\Debug\WestwoodBillingSystem.Transactions.resources
